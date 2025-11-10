@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Pedro!
 
-<!--
-**zsoouza/zsoouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Analytics Engineer passionate about data, technology, and solving business challenges with insights.
 
-Here are some ideas to get you started:
+- 🔍 Interested in Data Analytics, Machine Learning, and business intelligence
+- 🤝 Seeking entry-level opportunities and global connections
+- 🌎 Based in Brazil, open to remote/global work
+- 🚀 Developing skills in Python, SQL, dbt, Looker, and Data Visualization
+- 📊 Currently learning advanced data modeling and analytics engineering best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Career Goals
+- Transitioning to Analytics Engineering and Machine Learning
+- Building scalable data solutions and real-world portfolio projects
+- Contributing to open-source data projects
+
+## 🔭 Current Learning Focus
+- Data Modeling with dbt and dimensional modeling (Kimball)
+- Advanced SQL for analytics automation
+- Python for data manipulation and visualization
+- Business intelligence tools: Looker, Power BI, Tableau
+- English for business, interviews, and international networking
+
+## 💼 Technical Skills
+**Languages:** Python, SQL  
+**Tools & Platforms:** dbt, Git, Looker, Google Sheets, Figma  
+**Databases:** PostgreSQL, MySQL, BigQuery  
+**Other:** Data Visualization, Business Analysis, Stakeholder Communication
+
+## 📫 How to reach me
+- **LinkedIn:** [Add your LinkedIn URL]
+- **Email:** [Add your email]
+- **GitHub:** You're here! 👈
+
+---
+
+*"Turning data into insights for smarter business decisions."* ✨
