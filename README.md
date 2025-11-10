@@ -27,7 +27,7 @@ Aspiring Analytics Engineer passionate about data, technology, and solving busin
 **Other:** Data Visualization, Business Analysis, Stakeholder Communication
 
 ## 📫 How to reach me
-- **LinkedIn:** [Add your LinkedIn URL]
+- **LinkedIn:** [[linkedin.com/in/pedro-henrique-508092335](https://www.linkedin.com/in/pedro-henrique-508092335)
 - **Email:** [Add your email]
 - **GitHub:** You're here! 👈
 
