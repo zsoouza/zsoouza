@@ -28,8 +28,7 @@ Aspiring Analytics Engineer passionate about data, technology, and solving busin
 
 ## 📫 How to reach me
 - **LinkedIn:** [[linkedin.com/in/pedro-henrique-508092335](https://www.linkedin.com/in/pedro-henrique-508092335)
-- **Email:** [Add your email]
-- **GitHub:** You're here! 👈
+- **Email:** [pedrooh8778@gmail.com](mailto:pedrooh8778@gmail.com)- **GitHub:** You're here! 👈
 
 ---
 
